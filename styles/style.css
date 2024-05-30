@@ -214,3 +214,7 @@ strong {
         width: 100%;
     }
 }
+
+.legendary {
+    border-radius: 16px;
+}
